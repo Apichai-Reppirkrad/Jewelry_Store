@@ -1,0 +1,1 @@
+If you try to download the original file (Jewelry.zip) it will appeared "Virus detected" don't worry, because they will detect .js file as virus, so you have to download (Jewelry fix.zip) then change the file name "JS scripts" from html to js.
